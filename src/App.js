@@ -10,7 +10,7 @@ function App() {
   const [tasks, setTasks] = useState([
     {
         id: 1,
-        text: 'Exercise',
+        text: 'Exercises',
         day: 'March 8th at 6:00am',
         reminder: true
     },    
@@ -22,7 +22,7 @@ function App() {
     },    
     {
         id: 3,
-        text: 'buy lunch',
+        text: 'Buy lunch',
         day: 'March 8th at 11:30am',
         reminder: false
     }
